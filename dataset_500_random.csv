@@ -1,0 +1,501 @@
+FIPS,State,County,Climate Region,MEDHINC16,GROC16,CONVS16,SUPERC16,PCT_OBESE_ADULTS17,RECFAC16,largest_group,FFR16,FSR16,PCTADTLHS16_20,PCTADTWHS16_20,PCTADTWC16_20,highest_education_pct
+54049,WV,Marion,Ohio Valley,45712.0,9,35,1,38.1,4,White & Not Hispanic,39,33,9.771481749560541,40.48960810671078,26.66735601282184,With a high school diploma only
+45091,SC,York,Southeast,61044.0,38,115,7,34.1,32,White & Not Hispanic,153,170,8.809141572207718,24.96743260847239,32.48414873433116,With some college or associate's degree
+12069,FL,Lake,Southeast,50125.0,37,146,7,28.4,27,White & Not Hispanic,152,243,10.02199432917296,32.08711420015975,33.50671375951605,With some college or associate's degree
+26057,MI,Gratiot,Upper Midwest,42642.0,5,26,2,32.3,1,White & Not Hispanic,23,17,7.941624455385924,40.3244660125394,35.21306365343062,With a high school diploma only
+36019,NY,Clinton,Northeast,53392.0,20,53,2,25.7,5,White & Not Hispanic,39,76,11.95478916099116,36.3172004057383,27.30582524271844,With a high school diploma only
+47043,TN,Dickson,Ohio Valley,52144.0,7,33,1,32.8,4,White & Not Hispanic,39,39,14.40426793123888,40.28668427008676,28.15649081209247,With a high school diploma only
+37171,NC,Surry,Southeast,38843.0,15,52,2,32.1,5,White & Not Hispanic,58,70,20.13345108429006,29.12962417819645,32.87214208615445,With some college or associate's degree
+36113,NY,Warren,Northeast,55769.0,27,46,2,25.7,11,White & Not Hispanic,66,142,7.903665618950479,29.51229158427176,30.32826127682605,With some college or associate's degree
+19087,IA,Henry,Upper Midwest,50684.0,2,11,1,36.4,2,White & Not Hispanic,9,21,7.454558834351313,36.24254912061226,33.78467878431084,With a high school diploma only
+41033,OR,Josephine,Northwest,38921.0,16,37,3,29.4,7,White & Not Hispanic,52,72,9.18559728017308,30.15144490805131,42.54056560037088,With some college or associate's degree
+41029,OR,Jackson,Northwest,48538.0,35,77,9,29.4,27,White & Not Hispanic,155,201,9.572105748735407,25.200903509051,36.4031431934591,With some college or associate's degree
+42095,PA,Northampton,Northeast,65730.0,51,101,2,31.6,28,White & Not Hispanic,202,262,8.736091672088788,34.15468728789361,25.26740033047638,With a high school diploma only
+45047,SC,Greenwood,Southeast,40599.0,15,50,2,34.1,4,White & Not Hispanic,55,48,14.50918394941027,31.86612027541447,29.52800948557402,With a high school diploma only
+20079,KS,Harvey,South,56848.0,6,9,1,32.4,3,White & Not Hispanic,24,24,9.006307061262294,23.03179993825255,35.93260706567283,With some college or associate's degree
+37063,NC,Durham,Southeast,54255.0,52,120,6,32.1,45,White & Not Hispanic,286,239,10.39282033508751,17.71430916702389,22.4355408005983,With some college or associate's degree
+16027,ID,Canyon,Northwest,48461.0,25,56,5,29.3,10,White & Not Hispanic,109,84,13.73163127920456,31.04592810189285,35.0649070134134,With some college or associate's degree
+22019,LA,Calcasieu,South,47052.0,31,149,6,36.2,15,White & Not Hispanic,157,103,12.59187146541025,33.6489228093904,31.88023453698268,With a high school diploma only
+36085,NY,Richmond,Northeast,75524.0,242,113,1,25.7,43,White & Not Hispanic,314,328,11.54210911368091,29.71889122050646,24.041920945118,With a high school diploma only
+47093,TN,Knox,Ohio Valley,52174.0,71,225,11,32.8,56,White & Not Hispanic,424,341,8.09722812862711,24.69712133372129,28.41799654035664,With some college or associate's degree
+37061,NC,Duplin,Southeast,38771.0,14,41,1,32.1,1,White & Not Hispanic,36,26,21.33110484695787,31.50148427170904,32.60408611270486,With some college or associate's degree
+39097,OH,Madison,Ohio Valley,60039.0,5,15,1,33.8,2,White & Not Hispanic,22,12,12.59820250141412,40.91194770913204,28.37659480862297,With a high school diploma only
+29047,MO,Clay,Ohio Valley,65973.0,31,67,6,32.5,28,White & Not Hispanic,166,154,6.649187707263346,27.99506758131906,32.50607573417616,With some college or associate's degree
+17109,IL,McDonough,Ohio Valley,44460.0,8,15,1,31.1,2,White & Not Hispanic,23,30,4.775280898876404,30.78871998237497,32.05551883674818,With some college or associate's degree
+9003,CT,Hartford,Northeast,69341.0,258,315,7,26.9,142,White & Not Hispanic,598,814,10.0011374942124,26.18639845300787,25.30283780774425,With a high school diploma only
+39159,OH,Union,Ohio Valley,78796.0,4,16,2,33.8,8,White & Not Hispanic,29,30,5.74703839869281,32.18188316993464,26.52420343137255,With a high school diploma only
+54003,WV,Berkeley,Ohio Valley,56966.0,12,41,2,38.1,10,White & Not Hispanic,57,60,9.693927763015452,37.39420332644425,30.10161401436867,With a high school diploma only
+12117,FL,Seminole,Southeast,61253.0,64,171,10,28.4,54,White & Not Hispanic,320,330,5.552579572245273,20.48101978373176,32.92718727207247,With some college or associate's degree
+35001,NM,Bernalillo,Southwest,50599.0,78,225,15,28.4,72,Hispanic,568,445,10.00640508661762,22.92425187098751,31.78774266447347,With some college or associate's degree
+41071,OR,Yamhill,Northwest,60643.0,21,31,3,29.4,8,White & Not Hispanic,46,82,10.36234007227268,24.33691906296653,37.95432031587907,With some college or associate's degree
+20151,KS,Pratt,South,51419.0,2,2,1,32.4,2,White & Not Hispanic,10,12,8.308507116848727,24.82621648460775,37.37173121482953,With some college or associate's degree
+49003,UT,Box Elder,Southwest,57875.0,5,19,1,25.3,4,White & Not Hispanic,32,19,7.106397285814714,30.372589173824,38.820796527799,With some college or associate's degree
+53001,WA,Adams,Northwest,48698.0,6,13,1,27.7,1,Hispanic,9,10,31.09399647397235,31.68785376264266,23.40168878166466,With a high school diploma only
+44009,RI,Washington,Northeast,77000.0,28,39,2,30.0,23,White & Not Hispanic,100,177,5.30732357775913,22.07074132401458,26.64122400652926,With some college or associate's degree
+39011,OH,Auglaize,Ohio Valley,59543.0,6,20,1,33.8,6,White & Not Hispanic,40,27,6.851518270715388,43.14526505404015,30.82861554297478,With a high school diploma only
+37193,NC,Wilkes,Southeast,41640.0,12,41,1,32.1,2,White & Not Hispanic,38,41,18.47137637028015,31.57531465692245,33.94031668696712,With some college or associate's degree
+45035,SC,Dorchester,Southeast,58167.0,19,54,1,34.1,10,White & Not Hispanic,76,78,11.02197963759327,26.10541404785533,34.66295438673871,With some college or associate's degree
+48471,TX,Walker,South,42709.0,9,41,1,33.0,3,White & Not Hispanic,40,41,14.02663583418979,39.91521068859198,27.04051044878383,With a high school diploma only
+26073,MI,Isabella,Upper Midwest,42924.0,10,37,3,32.3,5,White & Not Hispanic,37,44,7.535875988028547,32.29222622975981,30.62440846187297,With a high school diploma only
+27145,MN,Stearns,Upper Midwest,57881.0,31,60,4,28.4,21,White & Not Hispanic,109,118,8.098460173243115,28.2130144100356,35.87786259541985,With some college or associate's degree
+40101,OK,Muskogee,South,40581.0,14,35,1,36.5,3,White & Not Hispanic,55,42,13.78954984980376,34.54732826101257,31.87887824237507,With a high school diploma only
+53057,WA,Skagit,Northwest,60442.0,32,51,3,27.7,12,White & Not Hispanic,77,119,9.401880376075216,25.58733969016026,37.5708475028339,With some college or associate's degree
+13059,GA,Clarke,Southeast,36692.0,23,67,2,31.6,26,White & Not Hispanic,114,129,10.53902520262018,19.86649272787832,24.24086821361163,With some college or associate's degree
+39157,OH,Tuscarawas,Ohio Valley,50273.0,18,39,1,33.8,5,White & Not Hispanic,79,72,12.87148909461792,45.22203044092264,24.04205240859878,With a high school diploma only
+31109,NE,Lancaster,Northern Rockies & Plains,58873.0,45,97,7,32.8,51,White & Not Hispanic,299,205,6.766951694406881,21.07053165638059,32.39707990605269,With some college or associate's degree
+16011,ID,Bingham,Northwest,51586.0,6,18,1,29.3,2,White & Not Hispanic,17,20,10.58464849354376,33.08106169296987,35.84648493543759,With some college or associate's degree
+18135,IN,Randolph,Ohio Valley,46750.0,4,13,1,33.6,3,White & Not Hispanic,9,18,11.29398080837453,42.02384414073859,30.29950567025298,With a high school diploma only
+27147,MN,Steele,Upper Midwest,60619.0,8,13,1,28.4,4,White & Not Hispanic,26,27,7.334844559585492,31.81670984455959,34.04711787564767,With some college or associate's degree
+42119,PA,Union,Northeast,57013.0,3,14,1,31.6,6,White & Not Hispanic,27,33,12.15614356824731,40.99423631123919,21.40096934765523,With a high school diploma only
+48219,TX,Hockley,South,46856.0,2,10,1,33.0,1,White & Not Hispanic,13,17,24.40517601224433,28.18978711562544,31.75177403645471,With some college or associate's degree
+42007,PA,Beaver,Northeast,54715.0,25,64,3,31.6,8,White & Not Hispanic,108,88,6.240283153054811,36.43858952730641,31.77615692501075,With a high school diploma only
+35035,NM,Otero,Southwest,41995.0,9,20,1,28.4,4,White & Not Hispanic,30,36,13.17944899478779,28.05794354565762,39.88808411742142,With some college or associate's degree
+37135,NC,Orange,Southeast,65299.0,19,44,1,32.1,30,White & Not Hispanic,100,123,6.990425275519819,12.54245086654543,19.61723012203939,With some college or associate's degree
+29095,MO,Jackson,Ohio Valley,50822.0,107,264,13,32.5,64,White & Not Hispanic,492,558,8.726198897478936,28.11993788377904,31.0315310978749,With some college or associate's degree
+13297,GA,Walton,Southeast,55267.0,9,49,2,31.6,3,White & Not Hispanic,52,37,12.76452804837084,34.95209303069565,29.77910008477694,With a high school diploma only
+39139,OH,Richland,Ohio Valley,44835.0,22,53,4,33.8,10,White & Not Hispanic,91,64,12.14250289304017,40.46595659258909,29.61056136787662,With a high school diploma only
+12019,FL,Clay,Southeast,57476.0,21,76,4,28.4,19,White & Not Hispanic,114,105,7.923246295370732,29.68633913736508,36.23782571694876,With some college or associate's degree
+47055,TN,Giles,Ohio Valley,43238.0,6,28,1,32.8,2,White & Not Hispanic,22,12,12.86880100439422,44.63759717997007,24.54488386691776,With a high school diploma only
+41001,OR,Baker,Northwest,42177.0,3,8,1,29.4,2,White & Not Hispanic,9,26,8.779960053262318,29.39414114513981,36.82589880159787,With some college or associate's degree
+39095,OH,Lucas,Ohio Valley,45251.0,75,169,10,33.8,40,White & Not Hispanic,388,336,10.32135215650945,29.46461782059288,33.5425176509932,With some college or associate's degree
+51630,VA,Fredericksburg,Southeast,53714.0,6,17,1,30.1,4,White & Not Hispanic,47,88,7.836330525836559,23.32119280673799,26.3942636011837,With some college or associate's degree
+17093,IL,Kendall,Ohio Valley,91952.0,9,30,5,31.1,15,White & Not Hispanic,76,66,7.709781360723941,23.2811940593326,33.13292428488538,With some college or associate's degree
+41017,OR,Deschutes,Northwest,61248.0,38,44,8,29.4,29,White & Not Hispanic,150,207,6.209961620225713,21.58969310448144,35.02404086233218,With some college or associate's degree
+8071,CO,Las Animas,Southwest,38224.0,4,7,1,22.6,1,White & Not Hispanic,11,13,9.498327759197323,29.76588628762542,40.74534161490683,With some college or associate's degree
+48465,TX,Val Verde,South,42104.0,3,14,1,33.0,2,Hispanic,39,22,29.98283810613454,24.52131776424269,26.37547531715853,With less than a high school diploma
+21179,KY,Nelson,Ohio Valley,56239.0,6,22,1,34.3,5,White & Not Hispanic,28,24,7.904218346459204,35.91493160730798,36.86828428402895,With some college or associate's degree
+12095,FL,Orange,Southeast,51312.0,220,525,23,28.4,144,White & Not Hispanic,1030,1161,11.32470118446386,24.11688927330783,29.14349084791372,With some college or associate's degree
+36105,NY,Sullivan,Northeast,49016.0,30,52,1,25.7,4,White & Not Hispanic,53,90,13.0394823220482,32.31735909218794,28.08778017443496,With a high school diploma only
+48467,TX,Van Zandt,South,49751.0,5,28,1,33.0,1,White & Not Hispanic,32,35,14.69921714050268,33.00113308611454,36.52400082406263,With some college or associate's degree
+51067,VA,Franklin,Southeast,52424.0,4,36,1,30.1,7,White & Not Hispanic,27,29,11.61938274320065,34.31077877965937,31.33934462282824,With a high school diploma only
+13237,GA,Putnam,Southeast,44785.0,3,21,1,31.6,2,White & Not Hispanic,7,16,12.34892604421066,36.8088170830985,27.35299643058426,With a high school diploma only
+51820,VA,Waynesboro,Southeast,41255.0,10,14,1,30.1,5,White & Not Hispanic,25,30,12.94514875453909,33.22927948015544,24.92195961011658,With a high school diploma only
+27027,MN,Clay,Upper Midwest,59937.0,7,20,2,28.4,5,White & Not Hispanic,36,21,4.740592123877872,23.04961802608226,38.04048666306556,With some college or associate's degree
+37137,NC,Pamlico,Southeast,43927.0,4,4,1,32.1,1,White & Not Hispanic,15,11,11.34567283641821,29.74487243621811,37.37868934467233,With some college or associate's degree
+17177,IL,Stephenson,Ohio Valley,45863.0,7,25,1,31.1,7,White & Not Hispanic,23,38,7.943557277394564,33.76799269268324,37.44054930863964,With some college or associate's degree
+5031,AR,Craighead,South,44091.0,21,43,5,35.0,6,White & Not Hispanic,84,77,10.55368745013108,33.66436794711045,28.68460047874159,With a high school diploma only
+54035,WV,Jackson,Ohio Valley,43544.0,3,19,1,38.1,1,White & Not Hispanic,19,15,11.29260324735482,43.65888146667317,27.03203471646594,With a high school diploma only
+53065,WA,Stevens,Northwest,51303.0,8,15,1,27.7,3,White & Not Hispanic,24,29,8.336409499200197,34.29617324966162,36.89553340716131,With some college or associate's degree
+48061,TX,Cameron,South,36587.0,39,147,10,33.0,15,Hispanic,248,250,31.44448241893006,26.11125630767375,24.29183168814459,With less than a high school diploma
+18089,IN,Lake,Ohio Valley,53600.0,78,231,6,33.6,33,White & Not Hispanic,409,300,10.87471238548541,35.50696042302859,30.52842147440762,With a high school diploma only
+51027,VA,Buchanan,Southeast,31763.0,8,18,1,30.1,1,White & Not Hispanic,9,7,27.44407366209368,36.94228154739834,23.82276603633667,With a high school diploma only
+19103,IA,Johnson,Upper Midwest,58904.0,20,47,3,36.4,20,White & Not Hispanic,110,149,4.270259373740089,15.79088832146217,25.62939569054339,With some college or associate's degree
+19155,IA,Pottawattamie,Upper Midwest,55442.0,11,49,3,36.4,5,White & Not Hispanic,70,53,10.28034440963969,33.12817768263313,34.68809520061704,With some college or associate's degree
+27099,MN,Mower,Upper Midwest,53302.0,9,19,1,28.4,3,White & Not Hispanic,21,22,11.8436754176611,32.59248210023866,33.00641408114559,With some college or associate's degree
+36049,NY,Lewis,Northeast,48314.0,3,19,1,25.7,1,White & Not Hispanic,14,27,8.696598639455782,44.4843537414966,28.47891156462585,With a high school diploma only
+41005,OR,Clackamas,Northwest,74460.0,58,108,13,29.4,50,White & Not Hispanic,244,329,6.297600412890608,21.35554431273747,34.35209110757226,With some college or associate's degree
+22073,LA,Ouachita,South,38525.0,21,101,7,36.2,12,White & Not Hispanic,118,98,12.23109775387536,34.52428029104714,28.18135083834229,With a high school diploma only
+47103,TN,Lincoln,Ohio Valley,43464.0,4,25,1,32.8,3,White & Not Hispanic,19,19,15.13281347733622,41.53288019682249,24.18581376923398,With a high school diploma only
+48309,TX,McLennan,South,46662.0,27,129,4,33.0,22,White & Not Hispanic,207,143,14.58152967475998,27.65703136104614,32.73721071470106,With some college or associate's degree
+37097,NC,Iredell,Southeast,56325.0,30,85,5,32.1,23,White & Not Hispanic,150,148,9.66979413740903,27.55871090998875,33.06349116401817,With some college or associate's degree
+12057,FL,Hillsborough,Southeast,54509.0,280,602,26,28.4,152,White & Not Hispanic,856,888,11.11256908982729,27.07640097842615,27.34795229671714,With some college or associate's degree
+13063,GA,Clayton,Southeast,44598.0,51,158,6,31.6,7,Black,194,87,15.07623568835521,33.44596481429768,32.33175090756772,With a high school diploma only
+38017,ND,Cass,Northern Rockies & Plains,59711.0,32,57,4,33.2,28,White & Not Hispanic,128,124,4.896471351086109,18.95411091541582,35.36885640931276,With some college or associate's degree
+47003,TN,Bedford,Ohio Valley,47295.0,7,27,1,32.8,1,White & Not Hispanic,24,18,16.50843395704673,40.71650228899745,24.63207054413617,With a high school diploma only
+42011,PA,Berks,Northeast,59205.0,74,124,7,31.6,44,White & Not Hispanic,261,287,12.78692431155687,36.28966126285246,25.00893626863474,With a high school diploma only
+17161,IL,Rock Island,Ohio Valley,50952.0,26,71,3,31.1,12,White & Not Hispanic,111,113,11.14013865452254,29.1438794803505,35.91904364974485,With some college or associate's degree
+37059,NC,Davie,Southeast,54189.0,5,24,1,32.1,2,White & Not Hispanic,30,25,10.22425058278885,32.19292773418262,33.29612240207506,With some college or associate's degree
+49039,UT,Sanpete,Southwest,47768.0,6,13,1,25.3,1,White & Not Hispanic,15,8,8.04723976929415,31.62867344136227,39.57703927492447,With some college or associate's degree
+39063,OH,Hancock,Ohio Valley,56406.0,11,27,3,33.8,8,White & Not Hispanic,66,55,6.932535343653488,36.015039036274,29.47574379927491,With a high school diploma only
+17195,IL,Whiteside,Ohio Valley,51567.0,7,26,1,31.1,2,White & Not Hispanic,33,50,8.65084641742955,37.60803968700455,34.83864368639084,With a high school diploma only
+16019,ID,Bonneville,Northwest,59293.0,10,46,4,29.3,4,White & Not Hispanic,79,77,7.678129221071589,25.15195857721747,36.27729626294462,With some college or associate's degree
+18143,IN,Scott,Ohio Valley,47738.0,4,14,1,33.6,1,White & Not Hispanic,20,8,19.24731834434277,42.14896066905036,25.41664141567178,With a high school diploma only
+4009,AZ,Graham,Southwest,46714.0,6,18,1,29.5,2,White & Not Hispanic,15,16,14.71602476214217,30.32115999833811,40.1470771531846,With some college or associate's degree
+18079,IN,Jennings,Ohio Valley,50425.0,3,10,1,33.6,3,White & Not Hispanic,11,6,11.72523117569353,44.92470277410832,30.5997357992074,With a high school diploma only
+37105,NC,Lee,Southeast,46723.0,15,37,1,32.1,8,White & Not Hispanic,47,42,14.88924853257325,27.62627116597019,36.99364718954564,With some college or associate's degree
+37165,NC,Scotland,Southeast,35138.0,7,34,1,32.1,2,White & Not Hispanic,23,18,19.11789580514208,33.58846414073071,31.79550067658999,With a high school diploma only
+51775,VA,Salem,Southeast,57897.0,6,22,1,30.1,2,White & Not Hispanic,32,34,9.161849710982658,27.66473988439306,32.91329479768786,With some college or associate's degree
+42037,PA,Columbia,Northeast,48821.0,10,28,1,31.6,11,White & Not Hispanic,58,60,9.157550983123615,42.76188083765329,23.75025691383681,With a high school diploma only
+54019,WV,Fayette,Ohio Valley,38829.0,9,33,1,38.1,2,White & Not Hispanic,23,30,15.4939063502245,43.72354073123797,25.54522129570238,With a high school diploma only
+17063,IL,Grundy,Ohio Valley,71969.0,6,18,1,31.1,7,White & Not Hispanic,41,37,6.444293838583256,31.72348763886024,36.40863953796741,With some college or associate's degree
+48189,TX,Hale,South,40152.0,4,18,1,33.0,5,Hispanic,22,19,25.06559129336313,32.98027402584783,24.76435720532504,With a high school diploma only
+34001,NJ,Atlantic,Northeast,55672.0,72,77,3,27.3,37,White & Not Hispanic,197,324,12.15691800719768,32.26542513983437,26.79887698911677,With a high school diploma only
+27127,MN,Redwood,Upper Midwest,54918.0,5,6,1,28.4,2,White & Not Hispanic,10,12,7.593707516022528,37.45387453874539,35.80306855700136,With a high school diploma only
+24041,MD,Talbot,Northeast,62264.0,13,19,1,31.3,7,White & Not Hispanic,38,54,8.845454221207689,23.12658272996398,28.31615365409994,With some college or associate's degree
+18091,IN,LaPorte,Ohio Valley,52763.0,20,55,3,33.6,10,White & Not Hispanic,72,88,10.69963640127842,39.43816880814668,30.7622633696932,With a high school diploma only
+6113,CA,Yolo,West,63645.0,44,56,2,25.1,18,White & Not Hispanic,152,144,12.53449629577804,17.64888795603131,27.19824000870667,With some college or associate's degree
+37085,NC,Harnett,Southeast,51106.0,20,53,1,32.1,8,White & Not Hispanic,81,48,11.90979160719384,28.89523265772195,37.10876391664288,With some college or associate's degree
+1113,AL,Russell,Southeast,38617.0,12,35,1,36.3,4,White & Not Hispanic,48,23,14.7225050916497,29.69959266802444,38.08553971486761,With some college or associate's degree
+35029,NM,Luna,Southwest,28227.0,2,16,1,28.4,2,Hispanic,20,18,28.68783547823838,36.02147060725603,22.23371920067257,With a high school diploma only
+36053,NY,Madison,Northeast,57703.0,11,23,1,25.7,5,White & Not Hispanic,44,68,7.376042945423525,34.69757183579201,31.2914837394145,With a high school diploma only
+51790,VA,Staunton,Southeast,46237.0,8,18,1,30.1,4,White & Not Hispanic,26,27,10.26727693959428,29.44566875741651,29.17443634514325,With a high school diploma only
+20057,KS,Ford,South,47175.0,6,15,1,32.4,2,Hispanic,20,28,26.04089311352047,25.51611465914154,31.42234764097233,With some college or associate's degree
+6077,CA,San Joaquin,West,59038.0,160,153,10,25.1,49,Hispanic,466,391,19.88958061666597,28.41311571951373,32.53522904134943,With some college or associate's degree
+45031,SC,Darlington,Southeast,37711.0,12,54,2,34.1,4,White & Not Hispanic,32,36,16.92796747615855,36.78610816772268,28.67893519019094,With a high school diploma only
+48329,TX,Midland,South,68729.0,9,49,3,33.0,15,White & Not Hispanic,120,104,15.88460819150926,26.09126613054049,30.5806994576398,With some college or associate's degree
+51185,VA,Tazewell,Southeast,38992.0,8,35,3,30.1,1,White & Not Hispanic,31,24,16.63678618857902,36.98539176626826,31.21513944223108,With a high school diploma only
+18077,IN,Jefferson,Ohio Valley,51534.0,6,9,1,33.6,2,White & Not Hispanic,20,29,10.68991660348749,41.55554564509655,30.41073897337555,With a high school diploma only
+22045,LA,Iberia,South,41604.0,21,43,1,36.2,7,White & Not Hispanic,42,23,18.10574116120662,42.28565250297329,24.28370634663207,With a high school diploma only
+48199,TX,Hardin,South,60692.0,7,32,2,33.0,6,White & Not Hispanic,40,21,11.26637329833501,39.56355027149438,31.10991018811601,With a high school diploma only
+40079,OK,Le Flore,South,37005.0,8,39,1,36.5,3,White & Not Hispanic,18,17,15.54697936767107,40.13359061896987,28.6151105833457,With a high school diploma only
+8075,CO,Logan,Southwest,49407.0,2,9,1,22.6,1,White & Not Hispanic,11,18,9.510903819488213,36.34816588932308,33.53712340854658,With a high school diploma only
+37045,NC,Cleveland,Southeast,38654.0,17,66,1,32.1,5,White & Not Hispanic,64,55,14.21828383132208,34.25509492214751,32.03010197265886,With a high school diploma only
+6073,CA,San Diego,West,70693.0,579,758,27,25.1,405,White & Not Hispanic,2736,2593,11.9549721026073,18.21796656551461,30.37078343614109,With some college or associate's degree
+26121,MI,Muskegon,Upper Midwest,44473.0,22,74,6,32.3,10,White & Not Hispanic,130,92,8.646821502562425,33.584962633049,38.0304135946923,With some college or associate's degree
+56013,WY,Fremont,Northern Rockies & Plains,49282.0,9,20,1,28.8,6,White & Not Hispanic,23,30,8.202993136041409,30.19016541014966,36.79531900528863,With some college or associate's degree
+53077,WA,Yakima,Northwest,48232.0,70,92,8,27.7,18,Hispanic,134,131,25.68238213399503,27.1889400921659,29.51146822114564,With some college or associate's degree
+5053,AR,Grant,South,54411.0,4,9,1,35.0,1,White & Not Hispanic,5,8,9.8083691826359,39.45248337895972,30.40281579976535,With a high school diploma only
+20169,KS,Saline,South,48748.0,6,18,2,32.4,8,White & Not Hispanic,52,35,8.020898189004088,29.61208413415988,35.1452315855012,With some college or associate's degree
+26063,MI,Huron,Upper Midwest,44845.0,8,28,1,32.3,1,White & Not Hispanic,29,39,9.702075914183967,41.91783201598193,32.38512985320941,With a high school diploma only
+18069,IN,Huntington,Ohio Valley,50138.0,5,23,1,33.6,5,White & Not Hispanic,30,26,8.117181567483314,41.68898125574517,29.19547580032772,With a high school diploma only
+21073,KY,Franklin,Ohio Valley,52395.0,6,33,1,34.3,4,White & Not Hispanic,41,39,9.80254866265229,29.55048312561266,29.9089763338468,With some college or associate's degree
+21161,KY,Mason,Ohio Valley,43683.0,4,19,1,34.3,1,White & Not Hispanic,12,14,13.08860759493671,33.92405063291139,31.62869198312237,With a high school diploma only
+42061,PA,Huntingdon,Northeast,46684.0,4,21,1,31.6,6,White & Not Hispanic,19,23,10.22303696914146,49.019248395967,22.93614421020471,With a high school diploma only
+48479,TX,Webb,South,36718.0,28,85,4,33.0,15,Hispanic,175,146,31.84760809777958,24.56966664271389,24.81986425309807,With less than a high school diploma
+19139,IA,Muscatine,Upper Midwest,57583.0,7,21,1,36.4,3,White & Not Hispanic,34,35,10.92709397794144,34.8955213361993,32.34786285633744,With a high school diploma only
+19021,IA,Buena Vista,Upper Midwest,52344.0,5,12,1,36.4,4,White & Not Hispanic,8,16,22.14646667201412,30.09545199326221,26.95917221464666,With a high school diploma only
+20117,KS,Marshall,South,48687.0,4,9,1,32.4,1,White & Not Hispanic,5,9,8.688597138220977,41.14176132172887,30.9780203569848,With a high school diploma only
+6079,CA,San Luis Obispo,West,69517.0,69,92,1,25.1,40,White & Not Hispanic,234,340,8.150909224921293,19.93608575249286,35.83093786524307,With some college or associate's degree
+55005,WI,Barron,Upper Midwest,49581.0,13,23,1,32.0,6,White & Not Hispanic,30,43,9.41019100354632,35.87382567037889,34.0757792571393,With a high school diploma only
+55123,WI,Vernon,Upper Midwest,51002.0,6,13,1,32.0,2,White & Not Hispanic,10,24,10.11784023954409,36.66087124504974,30.34869120061818,With a high school diploma only
+18097,IN,Marion,Ohio Valley,45300.0,166,350,23,33.6,89,White & Not Hispanic,832,735,13.26009230145045,27.55477228927883,27.03985571558982,With a high school diploma only
+27163,MN,Washington,Upper Midwest,90755.0,26,53,6,28.4,41,White & Not Hispanic,137,172,3.962588236636821,20.379595866217,30.03897534224688,With some college or associate's degree
+27093,MN,Meeker,Upper Midwest,61374.0,4,16,1,28.4,1,White & Not Hispanic,10,11,6.458966565349544,35.90425531914894,39.45668693009118,With some college or associate's degree
+29065,MO,Dent,Ohio Valley,38722.0,4,6,1,32.5,1,White & Not Hispanic,7,9,16.07580016320609,39.15132831625714,29.85764801885937,With a high school diploma only
+13113,GA,Fayette,Southeast,83145.0,18,42,2,31.6,17,White & Not Hispanic,102,106,4.489227914647975,21.16276672507989,27.59122770848366,With some college or associate's degree
+36067,NY,Onondaga,Northeast,56853.0,121,209,6,25.7,55,White & Not Hispanic,415,364,8.765673312214277,25.40546692717719,29.68934752230463,With some college or associate's degree
+41013,OR,Crook,Northwest,45350.0,4,10,1,29.4,2,White & Not Hispanic,9,16,10.71287908625443,32.52124008327238,37.9283182355258,With some college or associate's degree
+12007,FL,Bradford,Southeast,43058.0,3,22,1,28.4,2,White & Not Hispanic,14,12,21.06094251171971,41.50012336540834,27.16012830002467,With a high school diploma only
+22069,LA,Natchitoches,South,32094.0,7,27,1,36.2,2,White & Not Hispanic,19,27,12.08924773190954,38.03012545036246,29.95181664279203,With a high school diploma only
+45029,SC,Colleton,Southeast,35760.0,9,34,1,34.1,2,White & Not Hispanic,25,23,12.43331809175431,44.17771681146166,27.09571711629325,With a high school diploma only
+22085,LA,Sabine,South,42700.0,5,15,1,36.2,2,White & Not Hispanic,10,7,14.55248685562337,47.38623315404605,24.95316371547712,With a high school diploma only
+48171,TX,Gillespie,South,58787.0,3,14,1,33.0,1,White & Not Hispanic,13,49,10.30996272276975,29.96987182760558,25.57320124597866,With a high school diploma only
+29207,MO,Stoddard,Ohio Valley,37694.0,7,18,1,32.5,1,White & Not Hispanic,16,19,20.21525275153404,42.40284406350443,25.11444433622285,With a high school diploma only
+36089,NY,St. Lawrence,Northeast,50897.0,30,56,3,25.7,1,White & Not Hispanic,51,84,11.41027608431802,36.04860423264184,28.97839036843794,With a high school diploma only
+32023,NV,Nye,West,48001.0,7,29,1,26.7,5,White & Not Hispanic,26,16,13.85049445695232,35.74624526204794,38.01761235714897,With some college or associate's degree
+37141,NC,Pender,Southeast,50437.0,11,13,1,32.1,8,White & Not Hispanic,37,41,11.2381739689538,27.5075778451364,32.28391659777717,With some college or associate's degree
+45055,SC,Kershaw,Southeast,48824.0,8,42,1,34.1,4,White & Not Hispanic,42,35,10.75320164966356,36.73757325808552,31.45430866073367,With a high school diploma only
+41047,OR,Marion,Northwest,55954.0,44,138,11,29.4,39,White & Not Hispanic,245,242,14.77133375821374,25.88444717930686,35.22580928729974,With some college or associate's degree
+40021,OK,Cherokee,South,36297.0,8,24,1,36.5,1,White & Not Hispanic,22,31,12.48502121320076,31.31133205946173,28.72040677526962,With a high school diploma only
+47145,TN,Roane,Ohio Valley,47088.0,6,45,1,32.8,3,White & Not Hispanic,32,20,10.17710342027809,37.77783416218411,32.95950471937481,With a high school diploma only
+28001,MS,Adams,South,32956.0,5,11,1,37.3,1,White & Not Hispanic,31,18,24.48932751893505,31.75579527197613,25.97199908193711,With a high school diploma only
+34041,NJ,Warren,Northeast,74834.0,24,38,2,27.3,15,White & Not Hispanic,83,81,7.331505838319408,30.70191623395451,27.45196236063154,With a high school diploma only
+22105,LA,Tangipahoa,South,44625.0,20,88,3,36.2,10,White & Not Hispanic,81,85,17.94393379196667,35.0190588477696,25.08441982120168,With a high school diploma only
+33017,NH,Strafford,Northeast,69467.0,18,56,2,28.1,12,White & Not Hispanic,81,105,6.663249615581752,27.54414985322212,30.58221890871814,With some college or associate's degree
+47109,TN,McNairy,Ohio Valley,37574.0,4,20,1,32.8,1,White & Not Hispanic,15,16,15.57036713286713,45.58020104895105,25.78125,With a high school diploma only
+51009,VA,Amherst,Southeast,46497.0,6,21,1,30.1,1,White & Not Hispanic,19,18,13.37526754903245,37.95483335517407,27.34460315380247,With a high school diploma only
+29157,MO,Perry,Ohio Valley,51922.0,3,14,1,32.5,2,White & Not Hispanic,11,11,13.3843357067111,41.84971973943343,25.64762914709893,With a high school diploma only
+29083,MO,Henry,Ohio Valley,42607.0,5,20,1,32.5,1,White & Not Hispanic,16,20,12.82133470094237,41.45137508814668,30.09808321046221,With a high school diploma only
+17025,IL,Clay,Ohio Valley,43478.0,2,7,1,31.1,1,White & Not Hispanic,9,12,12.34939759036144,38.18846815834767,34.12220309810671,With a high school diploma only
+39133,OH,Portage,Ohio Valley,52947.0,20,55,4,33.8,12,White & Not Hispanic,143,88,7.471454029437001,36.98294313435228,25.67487294568015,With a high school diploma only
+17021,IL,Christian,Ohio Valley,49324.0,8,20,1,31.1,4,White & Not Hispanic,16,24,11.76371379179492,39.86170257621116,30.43808238816039,With a high school diploma only
+18035,IN,Delaware,Ohio Valley,41404.0,13,63,3,33.6,11,White & Not Hispanic,83,70,9.785605762196838,34.30870519385515,31.01963873726859,With a high school diploma only
+48099,TX,Coryell,South,50122.0,3,27,2,33.0,2,White & Not Hispanic,34,34,11.19378030429694,27.78590536699548,44.0979769269353,With some college or associate's degree
+10003,DE,New Castle,Northeast,67246.0,97,173,5,31.8,93,White & Not Hispanic,411,422,7.856141095372895,30.43067623724972,25.05032836346135,With a high school diploma only
+37163,NC,Sampson,Southeast,41477.0,10,35,1,32.1,4,White & Not Hispanic,33,36,19.02262187801605,35.01330006355783,31.52938960947247,With a high school diploma only
+1051,AL,Elmore,Southeast,54553.0,8,55,2,36.3,4,White & Not Hispanic,39,40,12.73639044373422,31.70942736567019,29.73884484311267,With a high school diploma only
+48499,TX,Wood,South,47260.0,5,23,1,33.0,2,White & Not Hispanic,14,35,14.35503066923006,33.05258018248955,33.4187799444597,With some college or associate's degree
+28043,MS,Grenada,South,37419.0,2,21,1,37.3,4,White & Not Hispanic,22,16,17.13257680597841,30.8746194298367,32.15471907002491,With some college or associate's degree
+39143,OH,Sandusky,Ohio Valley,52452.0,12,23,1,33.8,5,White & Not Hispanic,37,37,8.517526777020448,42.60467380720545,32.42453748782862,With a high school diploma only
+36061,NY,New York,Northeast,77214.0,1319,233,1,25.7,517,White & Not Hispanic,2622,4473,12.158172858899,12.22471672866497,13.43354370900494,With some college or associate's degree
+48213,TX,Henderson,South,43425.0,8,41,2,33.0,9,White & Not Hispanic,60,47,15.08779797840411,33.50467450926277,33.09242074033187,With a high school diploma only
+24027,MD,Howard,Northeast,119386.0,41,81,3,31.3,54,White & Not Hispanic,271,184,4.488163362548852,13.34949121014556,19.48933167783821,With some college or associate's degree
+17137,IL,Morgan,Ohio Valley,48600.0,3,20,1,31.1,4,White & Not Hispanic,22,21,10.18912429973464,39.71610294427362,30.14194852786319,With a high school diploma only
+40019,OK,Carter,South,47966.0,9,41,1,36.5,6,White & Not Hispanic,33,41,12.57204499922947,36.39697950377563,30.83371860070889,With a high school diploma only
+39137,OH,Putnam,Ohio Valley,61069.0,5,14,1,33.8,1,White & Not Hispanic,23,21,6.051898678219354,40.64807037708324,30.0826665487821,With a high school diploma only
+37125,NC,Moore,Southeast,54545.0,19,48,1,32.1,5,White & Not Hispanic,66,94,7.624763810158942,21.71557185728576,31.93703456707792,With some college or associate's degree
+53073,WA,Whatcom,Northwest,56636.0,41,102,3,27.7,32,White & Not Hispanic,122,203,7.296272055778914,22.22875232078218,35.19240786995606,With some college or associate's degree
+36005,NY,Bronx,Northeast,37355.0,1296,166,3,25.7,45,Hispanic,963,619,26.570549482683,27.73515777523587,25.38293498920644,With a high school diploma only
+37019,NC,Brunswick,Southeast,51457.0,22,45,3,32.1,8,White & Not Hispanic,97,118,8.000146758023536,29.06084037313227,33.46541555451602,With some college or associate's degree
+20045,KS,Douglas,South,55446.0,19,30,3,32.4,13,White & Not Hispanic,101,96,4.54936591008478,18.65028424720337,25.55967780614764,With some college or associate's degree
+21067,KY,Fayette,Ohio Valley,53288.0,65,109,7,34.3,49,White & Not Hispanic,304,279,8.077485206114646,18.97806744012225,27.96151447491824,With some college or associate's degree
+48139,TX,Ellis,South,69448.0,14,79,4,33.0,13,White & Not Hispanic,109,83,13.38976462966962,27.41524508745411,33.91060246167135,With some college or associate's degree
+55131,WI,Washington,Upper Midwest,74631.0,16,55,3,32.0,16,White & Not Hispanic,84,82,4.890822405141206,29.50977016890447,32.65521162613585,With some college or associate's degree
+46103,SD,Pennington,Northern Rockies & Plains,51508.0,16,59,3,31.9,16,White & Not Hispanic,94,97,6.433573675421678,28.98991598814255,32.88889464214056,With some college or associate's degree
+12111,FL,St. Lucie,Southeast,45509.0,44,115,6,28.4,20,White & Not Hispanic,138,177,12.73716094689218,32.17997957884574,32.61232702897839,With some college or associate's degree
+38035,ND,Grand Forks,Northern Rockies & Plains,51820.0,11,31,4,33.2,7,White & Not Hispanic,55,47,4.596434049079755,21.89896472392638,37.29390337423312,With some college or associate's degree
+39089,OH,Licking,Ohio Valley,58902.0,22,63,2,33.8,10,White & Not Hispanic,130,90,7.545726581938,34.10160715486517,30.79315446170398,With a high school diploma only
+6097,CA,Sonoma,West,73496.0,140,144,2,25.1,69,White & Not Hispanic,291,523,10.8707698562315,18.23100420751896,34.46629111798596,With some college or associate's degree
+1021,AL,Chilton,Southeast,44188.0,5,33,1,36.3,2,White & Not Hispanic,22,23,18.19056146983716,43.34560408582894,24.84329917421152,With a high school diploma only
+48341,TX,Moore,South,52344.0,5,15,1,33.0,1,Hispanic,11,19,34.63056965595037,27.05664330029812,24.07541696881798,With less than a high school diploma
+24005,MD,Baltimore,Northeast,72305.0,147,274,11,31.3,122,White & Not Hispanic,743,435,8.425423475782289,25.19936951668733,26.62056083851503,With some college or associate's degree
+4005,AZ,Coconino,Southwest,53643.0,20,80,3,29.5,12,White & Not Hispanic,128,169,9.01036601276182,21.734231562967,31.62701330739853,With some college or associate's degree
+48091,TX,Comal,South,76296.0,8,48,2,33.0,12,White & Not Hispanic,95,118,6.325802387204124,25.42920622096546,30.32768752825307,With some college or associate's degree
+12031,FL,Duval,Southeast,51948.0,174,462,21,28.4,87,White & Not Hispanic,781,716,9.930662664405144,28.10491789161601,31.27884250168,With some college or associate's degree
+45075,SC,Orangeburg,Southeast,34557.0,18,84,2,34.1,4,White & Not Hispanic,68,52,13.97811208240157,32.22030222945043,34.31930609202413,With some college or associate's degree
+28121,MS,Rankin,South,62284.0,13,90,4,37.3,25,White & Not Hispanic,147,71,10.93163740057031,25.03845865225874,33.77795287408075,With some college or associate's degree
+53075,WA,Whitman,Northwest,42693.0,10,15,1,27.7,2,White & Not Hispanic,32,33,4.444444444444445,15.82831929402327,31.50421179302046,With some college or associate's degree
+37167,NC,Stanly,Southeast,49106.0,14,34,2,32.1,15,White & Not Hispanic,50,42,13.51978140570825,32.01763449748571,36.83038276962641,With some college or associate's degree
+26067,MI,Ionia,Upper Midwest,50383.0,10,31,2,32.3,2,White & Not Hispanic,30,32,8.625484385684977,38.87850467289719,35.47298837474356,With a high school diploma only
+41043,OR,Linn,Northwest,50876.0,19,57,7,29.4,10,White & Not Hispanic,64,82,10.14962087019317,29.24151471384727,41.09721971474995,With some college or associate's degree
+44005,RI,Newport,Northeast,72776.0,14,29,1,30.0,11,White & Not Hispanic,76,132,5.285961871750433,20.21843628396717,24.77845721199438,With some college or associate's degree
+30111,MT,Yellowstone,Northern Rockies & Plains,57351.0,18,53,5,25.3,36,White & Not Hispanic,111,126,5.169385879505355,29.27741430612301,32.72427818775763,With some college or associate's degree
+51660,VA,Harrisonburg,Southeast,41636.0,18,31,2,30.1,6,White & Not Hispanic,55,84,16.66666666666666,25.90929009640666,22.18083552439381,With a high school diploma only
+5133,AR,Sevier,South,38697.0,5,14,1,35.0,1,White & Not Hispanic,7,9,24.25127142588058,36.45695987944999,25.88058014692032,With a high school diploma only
+46081,SD,Lawrence,Northern Rockies & Plains,50488.0,5,16,1,31.9,4,White & Not Hispanic,24,29,5.98912078152753,26.41540852575488,32.63210479573712,With some college or associate's degree
+17113,IL,McLean,Ohio Valley,64271.0,28,63,4,31.1,21,White & Not Hispanic,140,114,3.76849964762576,24.09192205862745,27.5632845088665,With some college or associate's degree
+48363,TX,Palo Pinto,South,43589.0,4,16,1,33.0,1,White & Not Hispanic,27,27,12.30035998580338,35.3648025148304,34.25949399178624,With a high school diploma only
+48249,TX,Jim Wells,South,40056.0,8,27,1,33.0,2,Hispanic,30,25,21.83352037459851,35.21922526218025,26.77914941372238,With a high school diploma only
+37013,NC,Beaufort,Southeast,41431.0,9,30,1,32.1,8,White & Not Hispanic,35,37,11.65715616629789,31.99312914871317,35.64108536159311,With some college or associate's degree
+41065,OR,Wasco,Northwest,50562.0,7,11,2,29.4,2,White & Not Hispanic,18,35,12.36754876922241,28.49535401836657,38.69477802532196,With some college or associate's degree
+12023,FL,Columbia,Southeast,41667.0,7,57,1,28.4,5,White & Not Hispanic,42,40,15.01598745443066,36.43102991792428,33.6530824219466,With a high school diploma only
+20059,KS,Franklin,South,50155.0,4,13,1,32.4,1,White & Not Hispanic,14,19,7.654335327254777,37.4411986758813,34.78715372553575,With a high school diploma only
+36013,NY,Chautauqua,Northeast,42664.0,30,54,3,25.7,13,White & Not Hispanic,94,145,10.5768908080051,34.56758359155639,31.79219849428926,With a high school diploma only
+5005,AR,Baxter,South,40147.0,8,16,1,35.0,3,White & Not Hispanic,31,33,11.22448979591837,35.09954440491793,35.92336016975597,With some college or associate's degree
+17201,IL,Winnebago,Ohio Valley,50296.0,58,122,7,31.1,36,White & Not Hispanic,213,209,12.18509528482157,30.80359448432577,34.02416980839746,With some college or associate's degree
+48215,TX,Hidalgo,South,35928.0,67,271,17,33.0,30,Hispanic,390,400,33.07009270737665,23.86669247591709,23.76064116767639,With less than a high school diploma
+12035,FL,Flagler,Southeast,50863.0,13,34,2,28.4,7,White & Not Hispanic,49,78,8.4942485059933,32.59295082155975,33.30800142779831,With some college or associate's degree
+17027,IL,Clinton,Ohio Valley,61013.0,8,22,1,31.1,5,White & Not Hispanic,17,34,9.83190138214419,32.24878595442659,36.21964886066492,With some college or associate's degree
+26081,MI,Kent,Upper Midwest,59649.0,94,178,20,32.3,64,White & Not Hispanic,439,445,8.595280452434187,24.22096546059083,30.34202529367381,With some college or associate's degree
+37025,NC,Cabarrus,Southeast,63059.0,31,73,6,32.1,22,White & Not Hispanic,160,133,9.413011623109645,25.40936962057732,31.65768021510578,With some college or associate's degree
+29123,MO,Madison,Ohio Valley,36909.0,2,8,1,32.5,2,White & Not Hispanic,8,8,13.99881866509155,40.48434731246308,31.43532191376255,With a high school diploma only
+22089,LA,St. Charles,South,64742.0,13,26,1,36.2,8,White & Not Hispanic,32,23,10.13614454435268,32.41818643064521,29.11745638018998,With a high school diploma only
+46099,SD,Minnehaha,Northern Rockies & Plains,60244.0,31,84,5,31.9,36,White & Not Hispanic,150,130,6.968008812038893,26.21977795563867,33.16559818053585,With some college or associate's degree
+36063,NY,Niagara,Northeast,50328.0,34,83,3,25.7,20,White & Not Hispanic,138,180,8.45114276250414,32.34713481285193,33.59589267969526,With some college or associate's degree
+36037,NY,Genesee,Northeast,54211.0,11,30,2,25.7,4,White & Not Hispanic,35,57,7.754805948494741,37.69072663523153,32.67319550235763,With a high school diploma only
+28091,MS,Marion,South,33416.0,4,20,1,37.3,2,White & Not Hispanic,17,15,17.68238827062357,38.23823823823824,31.2076782665018,With a high school diploma only
+37157,NC,Rockingham,Southeast,41620.0,19,62,3,32.1,9,White & Not Hispanic,65,57,16.75530298425819,33.85552786725825,34.16550173220689,With some college or associate's degree
+12075,FL,Levy,Southeast,33092.0,10,29,1,28.4,2,White & Not Hispanic,17,25,13.752240589524,41.44592710615415,30.7043749585076,With a high school diploma only
+35013,NM,Doña Ana,Southwest,38287.0,21,60,4,28.4,11,Hispanic,122,114,19.43973538874197,21.50267851088357,29.5570473844021,With some college or associate's degree
+48097,TX,Cooke,South,59243.0,5,33,1,33.0,2,White & Not Hispanic,20,28,12.60733517683016,30.82884587396303,34.79842817639354,With some college or associate's degree
+45085,SC,Sumter,Southeast,41205.0,19,74,1,34.1,4,White & Not Hispanic,65,57,12.98999017527872,31.4590423032564,34.71401517848244,With some college or associate's degree
+41061,OR,Union,Northwest,47309.0,7,12,2,29.4,2,White & Not Hispanic,19,21,7.141241660070112,32.90738437181952,35.77971276716047,With some college or associate's degree
+46035,SD,Davison,Northern Rockies & Plains,50238.0,2,17,1,31.9,4,White & Not Hispanic,18,24,8.978259256511093,32.277213029606,32.71499591897307,With some college or associate's degree
+9015,CT,Windham,Northeast,60869.0,24,42,3,26.9,12,White & Not Hispanic,64,84,10.86016514389016,35.15170762691162,30.2853373723555,With a high school diploma only
+51810,VA,Virginia Beach,Southeast,70596.0,77,160,8,30.1,59,White & Not Hispanic,440,525,5.970873629342505,20.76151772916552,35.99704918351037,With some college or associate's degree
+8035,CO,Douglas,Southwest,112399.0,25,60,9,22.6,51,White & Not Hispanic,218,191,2.049570188069992,12.32796613867435,27.01662521272418,With some college or associate's degree
+13013,GA,Barrow,Southeast,54893.0,14,50,1,31.6,13,White & Not Hispanic,37,28,13.49093892161981,34.22514728913416,32.09411589231114,With a high school diploma only
+51580,VA,Covington,Southeast,37904.0,1,7,1,30.1,1,White & Not Hispanic,9,11,11.52788197049262,43.43585896474119,29.93248312078019,With a high school diploma only
+17019,IL,Champaign,Ohio Valley,51032.0,38,72,7,31.1,21,White & Not Hispanic,184,185,5.106556707765167,21.89025883889932,27.96439944476198,With some college or associate's degree
+36011,NY,Cayuga,Northeast,53437.0,11,29,2,25.7,5,White & Not Hispanic,50,65,11.76904265266489,33.07559519528159,33.18168740559592,With some college or associate's degree
+6093,CA,Siskiyou,West,40875.0,19,26,1,25.1,5,White & Not Hispanic,28,45,10.10189961001384,25.73279657818593,42.06189457793433,With some college or associate's degree
+22095,LA,St. John the Baptist,South,52166.0,8,21,1,36.2,2,White & Not Hispanic,33,18,14.38620929827616,35.46926693365837,32.94445411805677,With a high school diploma only
+40083,OK,Logan,South,54305.0,2,22,1,36.5,1,White & Not Hispanic,14,24,8.880972072014758,30.72078376487054,31.1406578026592,With some college or associate's degree
+51047,VA,Culpeper,Southeast,67023.0,9,17,1,30.1,8,White & Not Hispanic,34,30,12.93505459508644,31.05379890809827,30.85759781619654,With a high school diploma only
+5113,AR,Polk,South,32941.0,3,15,1,35.0,2,White & Not Hispanic,7,15,14.80239691824797,36.15351690683407,33.74233128834356,With a high school diploma only
+37181,NC,Vance,Southeast,34717.0,11,51,1,32.1,4,White & Not Hispanic,28,20,16.92735949098621,34.83231707317074,30.71646341463415,With a high school diploma only
+48157,TX,Fort Bend,South,90972.0,96,372,13,33.0,68,White & Not Hispanic,461,376,9.247313519721834,17.83008700577416,26.44924400950298,With some college or associate's degree
+29127,MO,Marion,Ohio Valley,45187.0,6,26,1,32.5,4,White & Not Hispanic,23,26,10.63884996626706,35.5700866677046,29.02070683481239,With a high school diploma only
+40123,OK,Pontotoc,South,44212.0,6,20,1,36.5,2,White & Not Hispanic,22,23,10.74775753187724,31.89734926189614,28.53867503318451,With a high school diploma only
+32003,NV,Clark,West,54455.0,201,681,26,26.7,169,White & Not Hispanic,1867,1394,13.7460507751867,28.29568863748799,32.79564544795399,With some college or associate's degree
+22111,LA,Union,South,42166.0,3,15,1,36.2,2,White & Not Hispanic,8,6,14.97642250864508,44.53316567117259,23.49575605155611,With a high school diploma only
+55141,WI,Wood,Upper Midwest,52591.0,11,33,1,32.0,6,White & Not Hispanic,40,61,7.567318403564706,38.19383090692583,33.63999539046595,With a high school diploma only
+34007,NJ,Camden,Northeast,65838.0,147,150,2,27.3,69,White & Not Hispanic,393,344,11.18281969201546,29.53087140229372,27.0351839296493,With a high school diploma only
+18081,IN,Johnson,Ohio Valley,67215.0,11,43,6,33.6,7,White & Not Hispanic,134,104,8.077727264007981,31.11680190289847,28.48784792158217,With a high school diploma only
+21199,KY,Pulaski,Ohio Valley,37782.0,13,44,1,34.3,4,White & Not Hispanic,43,33,16.63784990479525,33.49018406250684,33.06121555667418,With a high school diploma only
+31145,NE,Red Willow,Northern Rockies & Plains,48783.0,1,3,1,32.8,2,White & Not Hispanic,11,3,6.709088393968737,29.97648360769125,40.10236547240282,With some college or associate's degree
+51031,VA,Campbell,Southeast,49935.0,10,38,1,30.1,6,White & Not Hispanic,37,28,11.20540743522343,33.50356740518212,31.79872324446114,With a high school diploma only
+40041,OK,Delaware,South,39144.0,4,26,1,36.5,3,White & Not Hispanic,15,27,14.84730239607856,37.2182269663646,29.78167628752943,With a high school diploma only
+22071,LA,Orleans,South,38418.0,137,133,4,36.2,33,White & Not Hispanic,324,501,12.34492336547616,22.73980055695151,26.946645763088,With some college or associate's degree
+55047,WI,Green Lake,Upper Midwest,50386.0,6,11,1,32.0,2,White & Not Hispanic,5,22,9.336442973216972,39.13632260006018,30.60487511284983,With a high school diploma only
+48367,TX,Parker,South,67735.0,9,42,2,33.0,8,White & Not Hispanic,85,61,10.98928162242614,28.10335042991295,34.20886380914649,With some college or associate's degree
+20121,KS,Miami,South,67651.0,4,13,1,32.4,3,White & Not Hispanic,16,22,4.369206666956787,32.08581748553026,32.38173984942774,With some college or associate's degree
+30029,MT,Flathead,Northern Rockies & Plains,50249.0,18,38,2,25.3,18,White & Not Hispanic,67,122,5.752206297413022,28.28604078036154,33.96252392163342,With some college or associate's degree
+13071,GA,Colquitt,Southeast,34931.0,14,41,1,31.6,2,White & Not Hispanic,29,19,25.40039619917403,38.30373031595206,22.62364436087701,With a high school diploma only
+5069,AR,Jefferson,South,38485.0,15,40,1,35.0,1,White & Not Hispanic,58,33,12.59503129805714,40.16114709003877,29.25122917975265,With a high school diploma only
+24033,MD,Prince George's,Northeast,78680.0,160,318,5,31.3,56,Black,779,309,12.81320642378731,25.30435217560375,27.48907236522584,With some college or associate's degree
+13245,GA,Richmond,Southeast,41128.0,36,133,4,31.6,15,White & Not Hispanic,172,131,14.26895218611088,32.07148390784713,31.16815716832264,With a high school diploma only
+13215,GA,Muscogee,Southeast,40895.0,41,126,4,31.6,19,White & Not Hispanic,207,141,11.85323889811652,26.46275345513805,34.19098060108433,With some college or associate's degree
+19057,IA,Des Moines,Upper Midwest,48991.0,6,24,1,36.4,3,White & Not Hispanic,34,34,7.772304324028462,33.16183178252144,39.23006750592958,With some college or associate's degree
+27169,MN,Winona,Upper Midwest,56499.0,4,20,1,28.4,5,White & Not Hispanic,33,33,6.459072478459199,26.86898124683223,35.41244298023315,With some college or associate's degree
+42121,PA,Venango,Northeast,41395.0,7,26,1,31.6,3,White & Not Hispanic,21,34,8.98390076537345,48.02058590657165,23.71338083927158,With a high school diploma only
+48133,TX,Eastland,South,37789.0,4,19,1,33.0,1,White & Not Hispanic,15,13,14.79888490641179,31.047391477499,34.91039426523297,With some college or associate's degree
+48485,TX,Wichita,South,45071.0,14,58,4,33.0,10,White & Not Hispanic,102,101,11.73477819486744,32.60145902684326,32.53299336591354,With a high school diploma only
+5103,AR,Ouachita,South,36016.0,5,14,1,35.0,3,White & Not Hispanic,17,13,13.8004504778718,40.55518353929507,32.19090521702076,With a high school diploma only
+55045,WI,Green,Upper Midwest,60846.0,10,13,1,32.0,6,White & Not Hispanic,15,36,7.723188682852227,35.12521506404129,33.82144905371822,With a high school diploma only
+27067,MN,Kandiyohi,Upper Midwest,53034.0,9,22,1,28.4,3,White & Not Hispanic,31,29,9.056577625333471,27.14201572948065,39.40685306447701,With some college or associate's degree
+54055,WV,Mercer,Ohio Valley,36871.0,9,38,1,38.1,4,White & Not Hispanic,30,31,15.73220564477811,38.67005606766131,25.49177991067186,With a high school diploma only
+34019,NJ,Hunterdon,Northeast,113336.0,21,27,3,27.3,28,White & Not Hispanic,95,142,4.506926011019161,20.50366933595057,20.97990229974794,With some college or associate's degree
+40081,OK,Lincoln,South,44914.0,3,14,1,36.5,2,White & Not Hispanic,18,23,11.80691726813801,41.46188827235179,32.09979556927698,With a high school diploma only
+48361,TX,Orange,South,53611.0,12,57,1,33.0,5,White & Not Hispanic,55,37,11.60957866020006,36.81507765276466,35.5829752331366,With a high school diploma only
+23005,ME,Cumberland,Northeast,65475.0,75,146,5,29.1,50,White & Not Hispanic,254,394,4.72226242780504,21.62136924132843,25.60452336151874,With some college or associate's degree
+21049,KY,Clark,Ohio Valley,48474.0,6,18,1,34.3,2,White & Not Hispanic,32,17,13.19123973406336,35.39694955025421,31.26319906140008,With a high school diploma only
+53017,WA,Douglas,Northwest,52363.0,11,3,4,27.7,2,White & Not Hispanic,14,20,17.38295830222886,29.2168781771,32.7894493619139,With some college or associate's degree
+47013,TN,Campbell,Ohio Valley,34997.0,8,32,1,32.8,2,White & Not Hispanic,28,12,20.81186464280741,38.85252750313327,27.3847653530149,With a high school diploma only
+13127,GA,Glynn,Southeast,48691.0,19,65,2,31.6,7,White & Not Hispanic,89,99,11.37109191939479,26.89964517640758,32.04793465890072,With some college or associate's degree
+22061,LA,Lincoln,South,39158.0,4,26,1,36.2,3,White & Not Hispanic,37,28,11.21901950120426,27.74842669567244,25.87211560873281,With a high school diploma only
+26065,MI,Ingham,Upper Midwest,49387.0,50,117,6,32.3,21,White & Not Hispanic,240,219,6.566034340218999,21.98313921117604,32.214904757352,With some college or associate's degree
+53035,WA,Kitsap,Northwest,68706.0,46,74,5,27.7,27,White & Not Hispanic,151,191,5.121401299626703,21.30026481755241,39.17651312920757,With some college or associate's degree
+18031,IN,Decatur,Ohio Valley,51999.0,6,9,1,33.6,2,White & Not Hispanic,20,16,8.324016100178891,45.58363148479427,26.554114490161,With a high school diploma only
+26137,MI,Otsego,Upper Midwest,50061.0,7,23,2,32.3,1,White & Not Hispanic,20,27,6.754146784821631,31.98704839809135,35.68507157464212,With some college or associate's degree
+29053,MO,Cooper,Ohio Valley,47187.0,1,10,1,32.5,3,White & Not Hispanic,13,15,11.27124291902699,36.47117627457514,29.90669776741086,With a high school diploma only
+22059,LA,La Salle,South,45169.0,2,13,1,36.2,1,White & Not Hispanic,11,3,19.87670279407378,43.81028139604256,20.67216863875907,With a high school diploma only
+18057,IN,Hamilton,Ohio Valley,92406.0,37,61,7,33.6,69,White & Not Hispanic,247,246,2.874233753727059,14.86378872900346,22.89571642869048,With some college or associate's degree
+26117,MI,Montcalm,Upper Midwest,46877.0,10,38,2,32.3,5,White & Not Hispanic,24,32,10.66270751788366,39.7624510730193,35.06096189319297,With a high school diploma only
+42091,PA,Montgomery,Northeast,84156.0,146,219,12,31.6,186,White & Not Hispanic,674,667,5.646397328010408,23.25427324388942,21.45812916103852,With a high school diploma only
+22053,LA,Jefferson Davis,South,42134.0,7,25,1,36.2,3,White & Not Hispanic,20,14,18.1078234223882,41.05142200517093,22.39777841616394,With a high school diploma only
+37101,NC,Johnston,Southeast,55174.0,34,89,4,32.1,19,White & Not Hispanic,122,88,11.78722086197233,27.74565621404761,36.51066403138736,With some college or associate's degree
+48303,TX,Lubbock,South,48587.0,22,94,7,33.0,27,White & Not Hispanic,267,182,12.83351106007164,25.10212451808712,30.06425505154075,With some college or associate's degree
+48209,TX,Hays,South,64864.0,10,67,4,33.0,24,White & Not Hispanic,145,124,9.633983038238357,22.82398452611218,28.96518375241779,With some college or associate's degree
+48027,TX,Bell,South,51993.0,31,164,8,33.0,33,White & Not Hispanic,236,180,9.061499127770137,25.73724190764516,39.86875017306148,With some college or associate's degree
+29175,MO,Randolph,Ohio Valley,43386.0,4,10,1,32.5,2,White & Not Hispanic,13,20,11.42907200840974,36.87437948957542,33.75576709688723,With a high school diploma only
+8077,CO,Mesa,Southwest,49825.0,21,48,3,22.6,10,White & Not Hispanic,91,103,9.454080048183247,28.2822484260453,34.86791955656356,With some college or associate's degree
+29071,MO,Franklin,Ohio Valley,55496.0,20,50,3,32.5,11,White & Not Hispanic,63,70,10.60075580749139,32.69978881849505,35.4298655107258,With some college or associate's degree
+53025,WA,Grant,Northwest,48997.0,27,43,2,27.7,6,White & Not Hispanic,50,58,21.45173063538678,27.0790541343428,33.47196523451425,With some college or associate's degree
+31019,NE,Buffalo,Northern Rockies & Plains,57036.0,10,29,1,32.8,7,White & Not Hispanic,43,45,8.014326553412413,24.96631945585384,33.25666217592745,With some college or associate's degree
+40031,OK,Comanche,South,48493.0,12,52,4,36.5,7,White & Not Hispanic,93,81,9.244217529202444,32.92333874835615,34.64969959516258,With some college or associate's degree
+12083,FL,Marion,Southeast,39629.0,56,174,7,28.4,20,White & Not Hispanic,170,188,12.00763381497299,36.48048392137022,30.8351066204372,With a high school diploma only
+17163,IL,St. Clair,Ohio Valley,50598.0,45,124,3,31.1,24,White & Not Hispanic,196,168,8.306443919438381,27.80599217728494,34.8526086004972,With some college or associate's degree
+53045,WA,Mason,Northwest,52758.0,10,24,2,27.7,5,White & Not Hispanic,23,41,10.37934558194824,31.32989927217368,40.15766094554858,With some college or associate's degree
+20037,KS,Crawford,South,39521.0,5,18,1,32.4,3,White & Not Hispanic,16,33,6.876778660323662,30.95187529201886,32.68487448498492,With some college or associate's degree
+6037,CA,Los Angeles,West,61308.0,1980,1964,56,25.1,939,Hispanic,8264,8113,20.20368845560377,20.3636785209936,25.88766335334488,With some college or associate's degree
+4021,AZ,Pinal,Southwest,52642.0,31,83,7,29.5,13,White & Not Hispanic,132,116,12.94349983141467,30.32705553682386,35.83289180033075,With some college or associate's degree
+55033,WI,Dunn,Upper Midwest,52181.0,6,21,1,32.0,3,White & Not Hispanic,23,29,6.535710395410479,32.13754039432119,31.64373116444574,With a high school diploma only
+39025,OH,Clermont,Ohio Valley,61203.0,25,81,7,33.8,16,White & Not Hispanic,125,106,10.24477293165468,32.00103979316547,28.88447054856115,With a high school diploma only
+55089,WI,Ozaukee,Upper Midwest,85706.0,12,27,3,32.0,12,White & Not Hispanic,51,76,3.188857473332476,20.85689500064259,26.31409844492996,With some college or associate's degree
+18145,IN,Shelby,Ohio Valley,53019.0,5,20,1,33.6,3,White & Not Hispanic,26,28,11.68956841494097,43.46493774595188,25.86607315657055,With a high school diploma only
+13077,GA,Coweta,Southeast,71114.0,21,58,3,31.6,11,White & Not Hispanic,76,76,9.558330113671024,27.30748113955711,29.87880513248063,With some college or associate's degree
+42019,PA,Butler,Northeast,66277.0,31,69,4,31.6,20,White & Not Hispanic,111,129,4.558561646387351,31.76761618073304,26.15994456407543,With a high school diploma only
+42103,PA,Pike,Northeast,60082.0,8,27,1,31.6,2,White & Not Hispanic,23,36,7.578451631505599,33.80027872555144,31.56566870104282,With a high school diploma only
+5091,AR,Miller,South,38412.0,7,26,1,35.0,3,White & Not Hispanic,22,25,14.33154357883362,34.61655354067471,33.07331239658258,With a high school diploma only
+1007,AL,Bibb,Southeast,43079.0,5,15,1,36.3,1,White & Not Hispanic,7,7,19.11553136923751,45.07412272471383,24.46362669669106,With a high school diploma only
+24031,MD,Montgomery,Northeast,99604.0,201,222,3,31.3,168,White & Not Hispanic,811,637,8.64284527633182,13.3762044523203,18.7320024365932,With some college or associate's degree
+42045,PA,Delaware,Northeast,67773.0,138,155,3,31.6,91,White & Not Hispanic,431,315,6.836917120964833,29.32538992664631,24.34761399402688,With a high school diploma only
+48375,TX,Potter,South,41563.0,16,61,4,33.0,8,White & Not Hispanic,122,110,22.80570941627609,32.49893481039625,29.31534938219003,With a high school diploma only
+1047,AL,Dallas,Southeast,30488.0,8,36,1,36.3,2,Black,25,12,16.05169653664441,36.22271680137441,31.08039514271211,With a high school diploma only
+4007,AZ,Gila,Southwest,40747.0,6,31,2,29.5,2,White & Not Hispanic,32,53,12.74031202818319,28.66129843985908,39.38852541519879,With some college or associate's degree
+13095,GA,Dougherty,Southeast,35750.0,16,88,3,31.6,7,Black,92,54,15.60497285939415,29.31885834354754,32.91892838382069,With some college or associate's degree
+5145,AR,White,South,44329.0,11,42,2,35.0,7,White & Not Hispanic,57,41,14.21625104962019,40.42062918627585,24.61481380226132,With a high school diploma only
+27171,MN,Wright,Upper Midwest,76256.0,12,42,4,28.4,13,White & Not Hispanic,70,76,6.044055658795268,28.60445089063137,34.30177219779721,With some college or associate's degree
+4023,AZ,Santa Cruz,Southwest,39090.0,10,16,1,29.5,2,Hispanic,24,39,22.14095520577033,27.49671374161583,29.43476355792241,With some college or associate's degree
+48049,TX,Brown,South,43770.0,7,26,1,33.0,3,White & Not Hispanic,33,30,12.97386120452461,35.14215836135738,31.77927239376337,With a high school diploma only
+39175,OH,Wyandot,Ohio Valley,55590.0,7,9,1,33.8,1,White & Not Hispanic,15,13,7.252704287762284,45.1453147399974,28.3070506972501,With a high school diploma only
+17007,IL,Boone,Ohio Valley,62081.0,6,21,1,31.1,3,White & Not Hispanic,27,16,13.31510127339543,32.27929236817366,30.22248810642965,With a high school diploma only
+12101,FL,Pasco,Southeast,46326.0,63,193,12,28.4,35,White & Not Hispanic,204,259,10.10244126191326,34.00693134906478,31.2575811630396,With a high school diploma only
+20111,KS,Lyon,South,43600.0,10,14,1,32.4,2,White & Not Hispanic,22,29,11.97851297755911,31.33691450374015,29.83081479993975,With a high school diploma only
+26015,MI,Barry,Upper Midwest,60818.0,11,27,1,32.3,1,White & Not Hispanic,23,31,6.642548722137939,37.30657019488855,33.04236200256739,With a high school diploma only
+39145,OH,Scioto,Ohio Valley,39245.0,13,45,1,33.8,1,White & Not Hispanic,59,44,14.34726492806438,42.43632084424705,27.61644459628744,With a high school diploma only
+37109,NC,Lincoln,Southeast,50714.0,15,40,2,32.1,7,White & Not Hispanic,60,38,11.2091197292991,30.73145091082311,35.00386011596774,With some college or associate's degree
+54067,WV,Nicholas,Ohio Valley,37359.0,6,19,1,38.1,1,White & Not Hispanic,14,25,11.72428956191942,48.37025229483867,22.15687352278349,With a high school diploma only
+40113,OK,Osage,South,46074.0,3,21,1,36.5,3,White & Not Hispanic,20,12,10.52678892484718,36.61153062447561,33.53410044348556,With a high school diploma only
+45073,SC,Oconee,Southeast,46996.0,17,41,1,34.1,6,White & Not Hispanic,50,47,14.25588292066612,28.74164283082106,29.63833856844543,With some college or associate's degree
+29077,MO,Greene,Ohio Valley,42802.0,41,114,9,32.5,34,White & Not Hispanic,260,256,7.361074050238845,28.10121019008303,33.04870583434052,With some college or associate's degree
+47189,TN,Wilson,Ohio Valley,70955.0,18,59,2,32.8,10,White & Not Hispanic,91,84,7.97015975498717,28.12681069447893,29.14700769803824,With some college or associate's degree
+40073,OK,Kingfisher,South,60814.0,3,12,1,36.5,1,White & Not Hispanic,9,15,10.82933516106923,40.45823949867815,25.55566434935866,With a high school diploma only
+20009,KS,Barton,South,47194.0,4,12,1,32.4,4,White & Not Hispanic,17,25,11.28435221536736,30.75715086932137,36.64610207515423,With some college or associate's degree
+30017,MT,Custer,Northern Rockies & Plains,48935.0,2,5,1,25.3,1,White & Not Hispanic,9,13,6.317448769249425,28.85897902267491,37.09227597914393,With some college or associate's degree
+17095,IL,Knox,Ohio Valley,43277.0,9,20,1,31.1,3,White & Not Hispanic,38,41,11.34298409058334,35.26730686541493,34.19234628063638,With a high school diploma only
+19157,IA,Poweshiek,Upper Midwest,52408.0,6,11,1,36.4,2,White & Not Hispanic,11,20,6.246872393661384,38.51542952460384,27.18098415346122,With a high school diploma only
+25011,MA,Franklin,Northeast,56544.0,18,31,1,25.9,8,White & Not Hispanic,33,68,6.557131629177738,27.99693102286762,27.16606160410195,With a high school diploma only
+20175,KS,Seward,South,48648.0,5,6,1,32.4,1,Hispanic,10,17,30.11257035647279,30.62070043777361,28.05659787367104,With a high school diploma only
+1083,AL,Limestone,Southeast,52181.0,10,59,1,36.3,7,White & Not Hispanic,52,44,14.72916114985141,29.33621678877218,31.0192132285874,With some college or associate's degree
+37183,NC,Wake,Southeast,76173.0,194,352,23,32.1,161,White & Not Hispanic,914,817,6.554517781207156,14.74547798142941,24.7077927847269,With some college or associate's degree
+42049,PA,Erie,Northeast,48820.0,36,97,6,31.6,30,White & Not Hispanic,190,191,8.514498553879978,37.76027492289138,25.01307377880234,With a high school diploma only
+17011,IL,Bureau,Ohio Valley,53410.0,5,22,1,31.1,3,White & Not Hispanic,12,27,9.347352224644185,36.01316408086507,33.94879685429756,With a high school diploma only
+13295,GA,Walker,Southeast,40814.0,6,44,1,31.6,2,White & Not Hispanic,22,20,16.84266644794849,34.18154975496729,29.81197071910435,With a high school diploma only
+51177,VA,Spotsylvania,Southeast,81065.0,20,42,4,30.1,11,White & Not Hispanic,88,76,8.662860443417603,28.37561647487448,30.88594659439286,With some college or associate's degree
+1045,AL,Dale,Southeast,40523.0,6,29,1,36.3,2,White & Not Hispanic,35,27,14.68587793091104,30.89911103156136,36.19712427659448,With some college or associate's degree
+51620,VA,Franklin,Southeast,40247.0,2,12,1,30.1,1,White & Not Hispanic,13,11,16.28967210240225,31.63247413641943,33.1229177625811,With some college or associate's degree
+6075,CA,San Francisco,West,101873.0,358,112,1,25.1,142,White & Not Hispanic,958,1917,11.44772637548003,11.58324659943294,18.20421347306464,With some college or associate's degree
+45057,SC,Lancaster,Southeast,53421.0,24,47,2,34.1,8,White & Not Hispanic,47,46,12.72042508466659,28.53701973607381,30.21575382459418,With some college or associate's degree
+8069,CO,Larimer,Southwest,66561.0,36,86,9,22.6,55,White & Not Hispanic,271,298,3.814322008353787,18.61861085992335,29.87469319209404,With some college or associate's degree
+45021,SC,Cherokee,Southeast,38273.0,9,42,1,34.1,3,White & Not Hispanic,38,35,18.5251102685135,36.2377157006887,30.85454873739328,With a high school diploma only
+26163,MI,Wayne,Upper Midwest,43570.0,405,859,33,32.3,110,White & Not Hispanic,1253,1110,12.84350478260943,29.22092499227795,32.70074384894144,With some college or associate's degree
+45043,SC,Georgetown,Southeast,47842.0,15,46,1,34.1,2,White & Not Hispanic,42,90,10.82929977412068,27.13993761428418,32.31364956437561,With some college or associate's degree
+37129,NC,New Hanover,Southeast,51373.0,49,88,5,32.1,28,White & Not Hispanic,227,270,6.77031313797544,19.9020069725808,31.09645403436038,With some college or associate's degree
+21227,KY,Warren,Ohio Valley,47253.0,19,49,4,34.3,13,White & Not Hispanic,97,96,11.70398243963625,26.78958921291941,29.2793979303857,With some college or associate's degree
+34031,NJ,Passaic,Northeast,61517.0,243,111,2,27.3,46,White & Not Hispanic,347,399,15.50935277201739,33.71845627642671,21.23951534955817,With a high school diploma only
+18041,IN,Fayette,Ohio Valley,44673.0,3,11,1,33.6,2,White & Not Hispanic,23,14,16.53762774852896,44.4781666150511,24.20563641994426,With a high school diploma only
+55081,WI,Monroe,Upper Midwest,56400.0,5,23,2,32.0,2,White & Not Hispanic,24,34,9.247518411783542,35.59398014729427,33.82965097662504,With a high school diploma only
+37047,NC,Columbus,Southeast,35290.0,16,36,1,32.1,1,White & Not Hispanic,46,29,16.01800976800977,37.63227513227513,33.45797720797721,With a high school diploma only
+12009,FL,Brevard,Southeast,51214.0,80,299,12,28.4,55,White & Not Hispanic,375,507,7.815050723770516,26.7048854227583,34.56735209047865,With some college or associate's degree
+19049,IA,Dallas,Upper Midwest,82123.0,13,35,2,36.4,11,White & Not Hispanic,48,57,4.458039003616453,18.35603474498935,26.72119511947815,With some college or associate's degree
+18169,IN,Wabash,Ohio Valley,51561.0,7,16,1,33.6,3,White & Not Hispanic,27,18,10.28616703952274,42.93903803131991,27.86633109619687,With a high school diploma only
+40027,OK,Cleveland,South,61275.0,52,83,7,36.5,28,White & Not Hispanic,223,172,7.767323444764224,24.39118884215187,33.57538189063538,With some college or associate's degree
+55025,WI,Dane,Upper Midwest,70815.0,80,169,5,32.0,114,White & Not Hispanic,437,469,3.813333556498428,17.27046772614295,26.49276526658466,With some college or associate's degree
+1043,AL,Cullman,Southeast,41543.0,15,53,2,36.3,4,White & Not Hispanic,63,43,17.73638179188761,32.27566971971627,34.5723435025136,With some college or associate's degree
+20161,KS,Riley,South,49901.0,8,23,1,32.4,3,White & Not Hispanic,49,44,3.817220021797496,16.41989420239772,32.54738297137084,With some college or associate's degree
+29215,MO,Texas,Ohio Valley,33879.0,5,10,1,32.5,1,White & Not Hispanic,10,22,15.6315499172642,39.21125206839493,30.38610038610038,With a high school diploma only
+13223,GA,Paulding,Southeast,65480.0,12,51,4,31.6,12,White & Not Hispanic,64,64,9.525360026792692,30.59018345551297,35.9896550440963,With some college or associate's degree
+36077,NY,Otsego,Northeast,50034.0,18,47,2,25.7,5,White & Not Hispanic,35,81,7.35441014883628,30.68874238337828,28.58605533912696,With a high school diploma only
+51013,VA,Arlington,Southeast,108635.0,46,64,1,30.1,49,White & Not Hispanic,227,268,5.054989116737312,7.897811891396494,11.21147897811891,With some college or associate's degree
+48005,TX,Angelina,South,43658.0,11,31,2,33.0,7,White & Not Hispanic,71,37,16.99080776543232,30.75822853255656,34.06708412551674,With some college or associate's degree
+21013,KY,Bell,Ohio Valley,26014.0,6,10,1,34.3,3,White & Not Hispanic,24,10,26.04857693130751,42.06077466295742,22.39995720094158,With a high school diploma only
+17001,IL,Adams,Ohio Valley,51130.0,11,28,2,31.1,9,White & Not Hispanic,34,54,7.808207230386813,34.39884872007326,32.58471065370023,With a high school diploma only
+55113,WI,Sawyer,Upper Midwest,44180.0,5,11,1,32.0,1,White & Not Hispanic,8,47,7.854375201808201,32.95124313852115,34.33161123668066,With some college or associate's degree
+28049,MS,Hinds,South,42903.0,27,153,4,37.3,21,Black,234,106,11.84660318790847,23.78554308391508,34.15541381252374,With some college or associate's degree
+55027,WI,Dodge,Upper Midwest,56949.0,12,39,1,32.0,6,White & Not Hispanic,36,50,8.795002981888949,40.19272419096644,33.01735773250887,With a high school diploma only
+6071,CA,San Bernardino,West,56194.0,309,481,18,25.1,125,Hispanic,1526,1101,19.29688265104021,26.4046487628976,32.94045508295829,With some college or associate's degree
+47115,TN,Marion,Ohio Valley,42348.0,4,27,1,32.8,2,White & Not Hispanic,21,18,19.04599160238258,40.20603456693682,28.26872375744556,With a high school diploma only
+29099,MO,Jefferson,Ohio Valley,61508.0,23,86,4,32.5,16,White & Not Hispanic,131,101,9.81839183725855,32.2492459731759,36.83180388885324,With some college or associate's degree
+26043,MI,Dickinson,Upper Midwest,46094.0,6,13,1,32.3,4,White & Not Hispanic,20,21,5.268517525994212,33.21899453317612,37.09936756351163,With some college or associate's degree
+55055,WI,Jefferson,Upper Midwest,60744.0,13,36,2,32.0,10,White & Not Hispanic,47,66,7.959719048827959,32.51925192519252,32.83574511297284,With some college or associate's degree
+6115,CA,Yuba,West,46054.0,10,23,1,25.1,4,White & Not Hispanic,29,27,17.82518082628417,23.80572923051776,40.35797474561726,With some college or associate's degree
+47117,TN,Marshall,Ohio Valley,50014.0,4,22,1,32.8,3,White & Not Hispanic,22,10,12.72368364588251,40.00343303437326,31.0389220272068,With a high school diploma only
+30049,MT,Lewis and Clark,Northern Rockies & Plains,60370.0,13,23,2,25.3,15,White & Not Hispanic,41,55,4.356005788712011,23.3078354351871,29.8470126111226,With some college or associate's degree
+28127,MS,Simpson,South,39568.0,3,24,1,37.3,2,White & Not Hispanic,21,9,21.6711324984962,28.30425985672883,32.58599004757478,With some college or associate's degree
+21113,KY,Jessamine,Ohio Valley,55047.0,5,22,2,34.3,5,White & Not Hispanic,35,30,11.79827659273909,30.88289306399209,28.11696567311767,With a high school diploma only
+48013,TX,Atascosa,South,53622.0,6,35,1,33.0,2,Hispanic,20,26,21.03706010588602,39.67299906571161,23.9769542198692,With a high school diploma only
+28045,MS,Hancock,South,45369.0,3,30,1,37.3,5,White & Not Hispanic,29,40,9.58546214584301,28.16418950301905,36.26045053413841,With some college or associate's degree
+22049,LA,Jackson,South,41192.0,1,13,1,36.2,1,White & Not Hispanic,9,4,17.12712090254952,42.72896864173403,26.65008439193391,With a high school diploma only
+28033,MS,DeSoto,South,64138.0,20,75,5,37.3,17,White & Not Hispanic,140,116,8.989327471939692,30.07613682899719,36.0860153945158,With some college or associate's degree
+18063,IN,Hendricks,Ohio Valley,78464.0,12,44,9,33.6,19,White & Not Hispanic,127,116,5.716800962980929,26.89250006737273,28.51483547578624,With some college or associate's degree
+56033,WY,Sheridan,Northern Rockies & Plains,53027.0,8,13,1,28.8,7,White & Not Hispanic,23,32,4.524970963995354,27.76306620209059,37.06387921022068,With some college or associate's degree
+5115,AR,Pope,South,42916.0,8,26,1,35.0,6,White & Not Hispanic,53,37,15.14663543649051,33.84326355340848,26.42121700092714,With a high school diploma only
+37151,NC,Randolph,Southeast,45939.0,22,66,2,32.1,13,White & Not Hispanic,74,85,17.04361955006369,34.3971595639048,32.44034783306419,With a high school diploma only
+48053,TX,Burnet,South,55919.0,2,36,1,33.0,6,White & Not Hispanic,32,46,11.59304120650754,30.3972212326327,31.25816411352571,With some college or associate's degree
+21173,KY,Montgomery,Ohio Valley,44890.0,4,25,1,34.3,2,White & Not Hispanic,19,16,15.23764656616415,40.98618090452261,28.1354690117253,With a high school diploma only
+41009,OR,Columbia,Northwest,63055.0,8,21,2,29.4,5,White & Not Hispanic,27,31,9.24040511727079,33.12633262260128,39.60287846481877,With some college or associate's degree
+22121,LA,West Baton Rouge,South,54454.0,6,22,1,36.2,3,White & Not Hispanic,21,13,13.16169126623016,36.40550438353124,27.7549661524803,With a high school diploma only
+30031,MT,Gallatin,Northern Rockies & Plains,60439.0,18,37,2,25.3,21,White & Not Hispanic,97,141,2.991213834014215,17.77939448206391,27.66103307403884,With some college or associate's degree
+18085,IN,Kosciusko,Ohio Valley,56010.0,12,28,2,33.6,9,White & Not Hispanic,60,69,13.23787755718846,34.13173652694611,28.2967188651089,With a high school diploma only
+8087,CO,Morgan,Southwest,49129.0,7,13,1,22.6,3,White & Not Hispanic,12,21,20.63911192541898,31.04488872123727,31.05566632537587,With some college or associate's degree
+42097,PA,Northumberland,Northeast,46783.0,21,39,1,31.6,5,White & Not Hispanic,61,64,10.86399400524541,49.37579617834395,21.8973398276508,With a high school diploma only
+24003,MD,Anne Arundel,Northeast,95297.0,94,200,10,31.3,72,White & Not Hispanic,492,389,6.793321674362426,22.70681043268203,27.49889910796291,With some college or associate's degree
+32007,NV,Elko,West,70242.0,11,21,1,26.7,3,White & Not Hispanic,40,29,13.19958695972857,33.04027142646408,36.91104882726066,With some college or associate's degree
+12017,FL,Citrus,Southeast,40009.0,18,68,3,28.4,7,White & Not Hispanic,58,93,10.53904367310701,37.99856255020505,32.56669344269226,With a high school diploma only
+45007,SC,Anderson,Southeast,45821.0,33,138,4,34.1,18,White & Not Hispanic,134,161,14.35571793087451,30.17933774066342,31.35438413361169,With some college or associate's degree
+31131,NE,Otoe,Northern Rockies & Plains,55030.0,4,10,1,32.8,2,White & Not Hispanic,8,11,7.655546365223785,34.06855987501149,32.87381674478448,With a high school diploma only
+8005,CO,Arapahoe,Southwest,70866.0,95,158,15,22.6,87,White & Not Hispanic,506,471,7.741655205634551,20.40318823028909,28.45187154340148,With some college or associate's degree
+42089,PA,Monroe,Northeast,59574.0,17,55,3,31.6,10,White & Not Hispanic,112,147,10.43372737378966,34.71855667478509,29.03198431758586,With a high school diploma only
+6023,CA,Humboldt,West,43164.0,48,38,2,25.1,17,White & Not Hispanic,97,142,9.39110824742268,22.98969072164948,36.72358247422681,With some college or associate's degree
+20091,KS,Johnson,South,80872.0,83,111,15,32.4,102,White & Not Hispanic,413,446,3.877862520005532,13.9554642271443,26.04893205034478,With some college or associate's degree
+37153,NC,Richmond,Southeast,35367.0,11,44,1,32.1,2,White & Not Hispanic,26,22,17.10762991791216,30.41501782385453,34.67639075121824,With some college or associate's degree
+30013,MT,Cascade,Northern Rockies & Plains,45569.0,10,29,2,25.3,12,White & Not Hispanic,69,66,7.577361198313751,31.45214817472419,33.64965467754956,With some college or associate's degree
+27059,MN,Isanti,Upper Midwest,68303.0,6,13,1,28.4,4,White & Not Hispanic,17,20,7.66972344050165,35.64101634709485,38.57334444887455,With some college or associate's degree
+12033,FL,Escambia,Southeast,45004.0,46,174,6,28.4,22,White & Not Hispanic,188,203,9.637412597204978,26.84397725893632,36.31568629281453,With some college or associate's degree
+37069,NC,Franklin,Southeast,49484.0,8,36,1,32.1,4,White & Not Hispanic,28,20,13.45477519216595,29.77150679161841,35.61756344108666,With some college or associate's degree
+1071,AL,Jackson,Southeast,41407.0,11,42,1,36.3,1,White & Not Hispanic,32,26,16.53819201121233,39.08414640720177,28.15751172443534,With a high school diploma only
+36083,NY,Rensselaer,Northeast,63174.0,38,70,1,25.7,5,White & Not Hispanic,109,110,7.526785714285714,27.45267857142857,31.11964285714286,With some college or associate's degree
+5027,AR,Columbia,South,35322.0,3,18,1,35.0,2,White & Not Hispanic,21,7,13.19411160561452,41.70489558370421,24.61485792536802,With a high school diploma only
+51145,VA,Powhatan,Southeast,78047.0,3,15,1,30.1,3,White & Not Hispanic,11,16,10.39644753708112,30.16846731367881,28.85460538362937,With a high school diploma only
+12001,FL,Alachua,Southeast,45294.0,43,122,2,28.4,37,White & Not Hispanic,197,211,7.211608663908494,20.23850085178876,28.46617181796057,With some college or associate's degree
+20011,KS,Bourbon,South,44424.0,3,6,1,32.4,1,White & Not Hispanic,11,10,9.369817578772803,32.29684908789386,37.36525704809287,With some college or associate's degree
+47071,TN,Hardin,Ohio Valley,37039.0,7,20,1,32.8,3,White & Not Hispanic,12,25,17.20071086218967,41.9516398298239,24.34702999623028,With a high school diploma only
+35005,NM,Chaves,Southwest,40573.0,6,30,2,28.4,5,Hispanic,44,41,20.63403916266267,26.59053045850738,35.09911389043147,With some college or associate's degree
+51141,VA,Patrick,Southeast,38539.0,2,15,1,30.1,1,White & Not Hispanic,7,10,17.66358595194085,36.61367837338263,30.81700554528651,With a high school diploma only
+48167,TX,Galveston,South,64155.0,52,175,7,33.0,27,White & Not Hispanic,244,238,10.41570306546321,24.59418623603053,32.87256676930397,With some college or associate's degree
+42133,PA,York,Northeast,62305.0,64,132,8,31.6,48,White & Not Hispanic,306,236,9.676036832459644,39.17558746109979,25.9499966417087,With a high school diploma only
+37071,NC,Gaston,Southeast,48874.0,32,106,6,32.1,17,White & Not Hispanic,168,126,14.43126362786834,30.40052954002699,33.11636901671685,With some college or associate's degree
+12103,FL,Pinellas,Southeast,49974.0,199,444,13,28.4,120,White & Not Hispanic,655,906,8.378900782489303,27.2228961435408,31.90823413359639,With some college or associate's degree
+29021,MO,Buchanan,Ohio Valley,47517.0,10,39,3,32.5,8,White & Not Hispanic,75,57,11.18677531079024,37.27475028025499,29.65850720297154,With a high school diploma only
+37051,NC,Cumberland,Southeast,45286.0,50,172,9,32.1,27,White & Not Hispanic,277,213,8.465312922844307,26.39222616542512,39.5332039620361,With some college or associate's degree
+40065,OK,Jackson,South,44211.0,1,13,1,36.5,3,White & Not Hispanic,18,18,14.31519699812383,28.98061288305191,34.45903689806129,With some college or associate's degree
+27091,MN,Martin,Upper Midwest,48326.0,3,12,1,28.4,4,White & Not Hispanic,15,13,6.409617983922601,35.5694671693818,36.3235398733727,With some college or associate's degree
+18179,IN,Wells,Ohio Valley,56054.0,2,9,1,33.6,1,White & Not Hispanic,12,14,7.754179371254337,40.32698980128273,33.20365892124908,With a high school diploma only
+18071,IN,Jackson,Ohio Valley,51871.0,8,26,1,33.6,3,White & Not Hispanic,34,27,11.19765661407363,40.52659609879502,30.40410092537115,With a high school diploma only
+54107,WV,Wood,Ohio Valley,46737.0,11,44,3,38.1,10,White & Not Hispanic,81,59,9.051373557971615,33.88496970702963,35.10000829944394,With some college or associate's degree
+13275,GA,Thomas,Southeast,40199.0,7,45,1,31.6,6,White & Not Hispanic,39,32,13.92425833552113,31.00223155683907,30.95300603833027,With a high school diploma only
+28029,MS,Copiah,South,34450.0,5,27,1,37.3,1,White & Not Hispanic,17,10,15.88497453310696,34.69333616298812,32.6188455008489,With a high school diploma only
+37159,NC,Rowan,Southeast,47971.0,22,79,1,32.1,11,White & Not Hispanic,83,95,14.05037566202734,32.60561645522848,33.49960996838691,With some college or associate's degree
+51057,VA,Essex,Southeast,50033.0,2,10,1,30.1,1,White & Not Hispanic,11,14,17.21019108280255,35.82165605095541,30.75159235668789,With a high school diploma only
+51153,VA,Prince William,Southeast,97549.0,64,122,11,30.1,54,White & Not Hispanic,295,259,10.82307800290113,19.89812629932418,27.36117702895112,With some college or associate's degree
+55023,WI,Crawford,Upper Midwest,46698.0,5,9,1,32.0,1,White & Not Hispanic,9,15,8.19002213519496,39.23888983483739,33.62846926613315,With a high school diploma only
+55097,WI,Portage,Upper Midwest,55064.0,8,27,1,32.0,9,White & Not Hispanic,43,70,5.91754738405101,31.93073630884793,28.72084898244388,With a high school diploma only
+31141,NE,Platte,Northern Rockies & Plains,59288.0,5,21,1,32.8,5,White & Not Hispanic,23,19,9.972160102231756,29.64264524667975,37.00424444343024,With some college or associate's degree
+36043,NY,Herkimer,Northeast,49633.0,10,27,1,25.7,5,White & Not Hispanic,39,62,9.352419281075642,36.76026708131345,32.76319399981707,With a high school diploma only
+47011,TN,Bradley,Ohio Valley,45326.0,14,80,2,32.8,10,White & Not Hispanic,75,59,12.92619265616245,32.26560258004564,31.31858370799569,With a high school diploma only
+17075,IL,Iroquois,Ohio Valley,47589.0,8,13,1,31.1,1,White & Not Hispanic,17,17,11.91600780367594,39.40342951021665,33.27857069514324,With a high school diploma only
+23019,ME,Penobscot,Northeast,47076.0,30,113,4,29.1,15,White & Not Hispanic,85,118,7.127623233097284,33.42227474587069,30.87128731153807,With a high school diploma only
+20133,KS,Neosho,South,42441.0,4,6,1,32.4,2,White & Not Hispanic,6,11,8.026010218300046,32.28982814677195,39.684161634928,With some college or associate's degree
+42083,PA,McKean,Northeast,43082.0,12,25,1,31.6,2,White & Not Hispanic,28,31,8.221241058287983,46.82205565253106,26.00198514563439,With a high school diploma only
+12105,FL,Polk,Southeast,46289.0,87,317,11,28.4,38,White & Not Hispanic,308,298,14.56381750928807,33.74108406366866,31.10739089830225,With a high school diploma only
+48141,TX,El Paso,South,42048.0,116,241,16,33.0,70,Hispanic,601,536,21.04581417602166,23.15739725068266,31.76885196163092,With some college or associate's degree
+18173,IN,Warrick,Ohio Valley,65809.0,8,17,2,33.6,7,White & Not Hispanic,30,29,5.867376461057748,28.5383636153223,32.61659530146974,With some college or associate's degree
+53005,WA,Benton,Northwest,63474.0,29,66,5,27.7,24,White & Not Hispanic,114,132,8.978950193627545,23.60568996587554,35.82991449714352,With some college or associate's degree
+6101,CA,Sutter,West,51283.0,21,40,2,25.1,8,White & Not Hispanic,59,54,20.17057163691703,23.03034146032148,36.7680162328398,With some college or associate's degree
+37087,NC,Haywood,Southeast,45290.0,10,35,1,32.1,2,White & Not Hispanic,41,60,11.49092313634608,26.29286296725463,34.38479035234539,With some college or associate's degree
+18141,IN,St. Joseph,Ohio Valley,48960.0,41,99,9,33.6,34,White & Not Hispanic,206,193,10.19133459835547,29.96238818107888,28.86283545676335,With a high school diploma only
+26107,MI,Mecosta,Upper Midwest,41759.0,8,25,2,32.3,2,White & Not Hispanic,19,30,8.525496471957519,36.51342111006038,32.03971775660144,With a high school diploma only
+47105,TN,Loudon,Ohio Valley,56774.0,8,33,1,32.8,5,White & Not Hispanic,42,26,13.01702541029705,30.56393476149087,29.16048877754486,With a high school diploma only
+5059,AR,Hot Spring,South,46313.0,6,15,1,35.0,2,White & Not Hispanic,18,10,12.53780816241972,38.44623990055936,33.68137559560804,With a high school diploma only
+27053,MN,Hennepin,Upper Midwest,71184.0,232,327,19,28.4,207,White & Not Hispanic,991,966,6.357411731562716,15.87108359090581,26.74203548487947,With some college or associate's degree
+51171,VA,Shenandoah,Southeast,53810.0,9,32,1,30.1,2,White & Not Hispanic,20,31,11.90957839642937,41.03329801239444,27.40262659345599,With a high school diploma only
+22109,LA,Terrebonne,South,49206.0,18,65,3,36.2,11,White & Not Hispanic,84,82,19.41642699936539,38.83690471368196,25.96103212216956,With a high school diploma only
+36009,NY,Cattaraugus,Northeast,46224.0,19,37,2,25.7,6,White & Not Hispanic,41,72,10.32527264106212,39.15030820293978,30.61735419630157,With a high school diploma only
+5093,AR,Mississippi,South,35846.0,10,22,2,35.0,5,White & Not Hispanic,29,29,17.94719667754375,38.76816968258677,27.69578760011866,With a high school diploma only
+27123,MN,Ramsey,Upper Midwest,60287.0,102,160,6,28.4,59,White & Not Hispanic,386,361,9.017647798260908,21.05684569517241,26.92587268881614,With some college or associate's degree
+18043,IN,Floyd,Ohio Valley,58703.0,10,25,2,33.6,4,White & Not Hispanic,72,48,9.040871731934992,30.29677563315854,30.5273531927554,With some college or associate's degree
+19059,IA,Dickinson,Upper Midwest,58019.0,2,13,1,36.4,4,White & Not Hispanic,20,29,4.087829946274235,26.32562485400608,37.36665888032391,With some college or associate's degree
+28093,MS,Marshall,South,37561.0,2,33,1,37.3,1,White & Not Hispanic,14,6,18.89474329126332,37.18906996691582,30.03716864763305,With a high school diploma only
+40099,OK,Murray,South,48008.0,2,10,1,36.5,2,White & Not Hispanic,11,12,15.07641470466749,39.79760429574556,26.60057827344073,With a high school diploma only
